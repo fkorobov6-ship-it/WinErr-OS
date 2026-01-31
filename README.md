@@ -1,4 +1,4 @@
-# WinErr OS - Сборка Live USB
+# WinErr OS - Сборка Live USB (Creating!)
 
 ## Описание
 WinErr OS - гибридная операционная система на базе Ubuntu с интерфейсом в стиле Windows/Linux.
