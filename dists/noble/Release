@@ -1,0 +1,19 @@
+Origin: WinErr
+Label: WinErr
+Suite: noble
+Version: 1.0
+Codename: noble
+Date: Thu, 25 Apr 2024 15:10:33 UTC
+Architectures: amd64 i386
+Components: main restricted
+Description: Based on Ubuntu Noble 24.04
+Acquire-By-Hash: yes
+SHA256:
+ 3d3521c6efddeffd776f44e1beb9183d9cd14f7c5b4cd444402c17f2a3392756    18258 restricted/binary-amd64/Packages.gz
+ 55b33ba838d4fe6990358d04c0b09d5ef20f2fab04ddb6c8f99e3244c4dda148   111600 restricted/binary-amd64/Packages
+ 5e8c72504f51cde07ced3be177f2ef5ebf5a7115029a32cc32c7dc82f0df579a     3847 restricted/binary-i386/Packages.gz
+ a73294a0fe5711bdea7125915bee02c4dff973fdf6a5ed2440c2bcd7ac384602    13008 restricted/binary-i386/Packages
+ 15475a000c1fc5824f0a597e735531d1b7f46a14d2356bdd48bae66df61fab02    54024 main/binary-amd64/Packages.gz
+ edc5dd8cf65acea61e06d284ec458b7ae8aa5c42009ec622723bdebca027cbf0   200176 main/binary-amd64/Packages
+ 7ea76d14211ae4f0fcbadac2accd304e76c1f1ddb9c56981e9bc757c7667bf7b    32466 main/binary-i386/Packages.gz
+ a9ef8bee3239ba05de071bdcaac29d374a716db781adba35d3cafaabf7cc3a5f   116480 main/binary-i386/Packages
